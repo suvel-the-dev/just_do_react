@@ -1,0 +1,15 @@
+.App {
+  display: grid;
+  place-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+.counter {
+  font-size: 64px;
+  border: 4px solid;
+  width: 200px;
+  text-align: center;
+}
+.counter__increment {
+  font-size: xx-large;
+}
